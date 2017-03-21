@@ -4,6 +4,9 @@ Conferencias y talleres libres que impartido o que impartiré en el futuro.
 
 ## Índice
 
+* [Licencias libres](licencias-libres/)
+* [Desarrollo de apps](desarrollo-de-apps/)
+
 ## Estructura
 
 Dentro de cada directorio hay un README.md que sirve como *index* de la conferencia o taller.
